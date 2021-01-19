@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+         <item name="fontFamily">
+             @font/montserrat
+         </item>
+     </style>
+    <style name="navigotion">
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorControlHighlight">@color/white</item>
+    </style>
+</resources>

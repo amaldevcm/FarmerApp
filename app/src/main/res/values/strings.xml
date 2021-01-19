@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MaterialDesign_Test</string>
+    <string name="open_nav_bar"></string>
+    <string name="close_nav_bar"></string>
+</resources>
